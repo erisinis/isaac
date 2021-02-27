@@ -1,5 +1,5 @@
 Hello Isaac's fans!
-[About Isaac](https://github.com/erisinis/isaac/about.html)
+[About Isaac](https://erisinis.github.io/isaac/about.html)
 
 
 ## Welcome to GitHub Pages
