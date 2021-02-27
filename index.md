@@ -1,4 +1,7 @@
 Hello Isaac's fans!
+[About Isaac](https://github.com/erisinis/isaac/about.html)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/erisinis/isaac/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
